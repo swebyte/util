@@ -1,0 +1,9 @@
+choco install vscode
+choco install powertoys
+choco install docker-desktop
+choco install golang
+choco install spotify
+choco install firefox
+choco install postman
+choco install nodejs
+choco install make
